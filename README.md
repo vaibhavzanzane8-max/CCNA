@@ -169,6 +169,6 @@ cd NextGen/CCNA
 
 ## 🌐 Connect with Me
 
-💻 GitHub: https://github.com/PRATHAMKUKUDKAR
+💻 GitHub: https://github.com/vaibhavzanzane8-max
 
 🔗 LinkedIn: www.linkedin.com/in/pratham-kukudkar
