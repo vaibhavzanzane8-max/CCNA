@@ -161,9 +161,6 @@ Example:
   https://github.com/vaibhavzanzane8-max/CCNA.git
    ```
 2.Navigate to CCNA folder:
-```
-cd CCNA
-```
 
 3. Open the labs in Cisco Packet Tracer or follow the CLI configurations.
 
