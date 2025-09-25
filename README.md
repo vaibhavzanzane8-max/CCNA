@@ -158,11 +158,11 @@ Example:
 
 1. Clone the repository:
    ```
-   https://github.com/PRATHAMKUKUDKAR/NextGen.git
+  https://github.com/vaibhavzanzane8-max/CCNA.git
    ```
 2.Navigate to CCNA folder:
 ```
-cd NextGen/CCNA
+cd CCNA
 ```
 
 3. Open the labs in Cisco Packet Tracer or follow the CLI configurations.
@@ -171,4 +171,5 @@ cd NextGen/CCNA
 
 💻 GitHub: https://github.com/vaibhavzanzane8-max
 
-🔗 LinkedIn: www.linkedin.com/in/pratham-kukudkar
+🔗 LinkedIn: www.linkedin.com/in/vaibhav-zanzane
+
